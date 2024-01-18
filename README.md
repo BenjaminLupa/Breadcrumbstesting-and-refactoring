@@ -1,5 +1,3 @@
-# Todo App
+# Cypress Testing
 
-Minimal todo app example.
-
-PS: Keep the erros that you may find 😅
+Minimal Cypress Testing.
