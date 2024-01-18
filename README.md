@@ -2,7 +2,7 @@
 
 ## Minimal Cypress Testing on the todo App.
 
-It's time to create your own tests for the Todo App.
+### It's time to create your own tests for the Todo App.
 
 - [ ] Start your local development server
 - [ ] Create a new test `todo-app.js` file in `/cypress/integration/`
